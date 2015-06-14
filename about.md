@@ -9,3 +9,5 @@ title: "About"
 
   * [twitter](http://twitter.com/leafriend)
   * [github](https://github.com/leafriend)
+
+{% include disqus.html %}
