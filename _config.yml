@@ -1,1 +1,12 @@
+# Site settings
 title: leafriend
+email: leafriend@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  leafriend, a (Java) Programmer
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://leafriend.github.io/" # the base hostname & protocol for your site
+twitter_username: leafriend
+github_username:  leafriend
+
+# Build settings
+markdown: kramdown
