@@ -53,3 +53,11 @@ kbd {
   background-color: $background-color-dark;
   line-height: 1em;
 }
+
+.post-tag::after {
+  content: ", ";
+}
+
+.post-tag:last-child::after {
+  content: "";
+}
