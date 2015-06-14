@@ -3,6 +3,10 @@ layout: post
 title: "Eclipse Emmet 충돌 단축키"
 date: 2015-06-15 02:47:04
 categories: dev
+tags:
+  - Eclipse
+  - Emmet
+  - Zen Coding
 ---
 
 [Emmet](http://emmet.io/)은 Zen Coding으로도 알려진 도구로 다음과 같은 입력을 HTML로 바꿔준다.
