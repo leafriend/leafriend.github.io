@@ -11,3 +11,5 @@ github_username:  leafriend
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+google_analytics_code: "UA-55614543-1"
