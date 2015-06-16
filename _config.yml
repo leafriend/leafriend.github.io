@@ -13,3 +13,8 @@ markdown: kramdown
 permalink: pretty
 
 google_analytics_tracking_id: "UA-55614543-1"
+
+collections:
+  docs:
+    output: true
+    permalink: /docs/:path/
