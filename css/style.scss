@@ -47,11 +47,13 @@ table {
 }
 
 kbd {
-  border: 1px solid $grey-color-soft-light;
+  /*
   border-radius: 0.25em;
+  line-height: 1em;
+  */
+  border-color: $grey-color-soft-light;
   padding: 0 0.25em;
   background-color: $background-color-dark;
-  line-height: 1em;
 }
 
 .post-tag::after {
