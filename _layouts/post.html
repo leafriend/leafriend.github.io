@@ -20,6 +20,7 @@ layout: default
 {{ content }}
 </article>
 
+{% if page.categories[0] != 'private' %}
 <div style="position: relative;">
 
   <!-- Twitter button -->
@@ -35,6 +36,7 @@ layout: default
   </div>
 
 </div>
+{% endif %}
 
 {% include disqus.html %}
 
